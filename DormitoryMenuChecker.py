@@ -19,7 +19,7 @@ class DormitoryMenuChecker(commands.Bot):
         self._start()
 
     def _start(self):
-        self.run("MTA4NTc2MDkyNjIxNDUyOTExNw.GLY96E.JFI0OieIJkPHie5SPBZPE8O7izf48Z2RuNBf6k")
+        self.run("")
 
     async def on_ready(self):
         print("봇이 정상적으로 활성화되었습니다.")
